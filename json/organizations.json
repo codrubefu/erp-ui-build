@@ -3,5 +3,16 @@
     "url": "http://localhost:5173",
     "organisation_id": 1,
     "organisation_name": "Default Organization"
+  },
+    {
+    "url": "http://localhost:5174",
+    "organisation_id": 1,
+    "organisation_name": "Default Organization"
+  },
+
+   {
+    "url": "http://192.168.1.39",
+    "organisation_id": 1,
+    "organisation_name": "UUR"
   }
 ]
